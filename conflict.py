@@ -1,1 +1,1 @@
-print("sannkaku")
+print("batu")
